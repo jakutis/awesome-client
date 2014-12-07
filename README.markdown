@@ -13,14 +13,15 @@ Thin wrapper around awesome-client command that enables interaction with Awesome
 
 ## API
 
-    var awesomeClient = require('awesome-client');
+```javascript
+var awesomeClient = require('awesome-client');
 
-    // restarts awesome
-    awesomeClient('awesome.restart()');
+// restarts awesome
+awesomeClient('awesome.restart()');
 
-    // same, but enables error checking
-    // if it failed, the err object will be an instance of Error
-    awesomeClient('awesome.restart()', function(err) {
-        console.log(err);
-    });
-
+// same, but enables error checking
+// if it failed, the err object will be an instance of Error
+awesomeClient('awesome.restart()', function(err) {
+    console.log(err);
+});
+```
