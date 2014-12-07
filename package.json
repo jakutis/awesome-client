@@ -1,0 +1,26 @@
+{
+  "name": "awesome-client",
+  "version": "1.0.0",
+  "description": "Thin wrapper around awesome-client command that enables interaction with Awesome WM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jakutis/awesome-client"
+  },
+  "keywords": [
+    "awesome",
+    "awesome-wm",
+    "awesomewm",
+    "awesome-client",
+    "awesomeclient"
+  ],
+  "author": "Vytautas Jakutis <vytautas@jakut.is> (https://jakut.is/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakutis/awesome-client/issues"
+  },
+  "homepage": "https://github.com/jakutis/awesome-client"
+}
