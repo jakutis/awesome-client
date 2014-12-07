@@ -7,9 +7,9 @@ Thin wrapper around awesome-client command that enables interaction with Awesome
 
 ## Installation
 
-      Install with [npm](https://www.npmjs.org/package/awesome-client):
+  Install with [npm](https://www.npmjs.org/package/awesome-client):
 
-        $ npm install --save awesome-client
+    $ npm install --save awesome-client
 
 ## API
 
